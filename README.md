@@ -10,7 +10,7 @@ Definitely looking back I should have begun straight in C++ as that is where nat
 
 <img src="/Read-Me-Images/Class_Diagram.png" alt="Class Diagram" width="580" height="369">
 
-You must compile and run with the "Required Libraries" in order for everything to be successful. The main static method is found in the class called "Runner." Lastly, I wanted to upload a jar to github, but sadly, it exceeded the max size allowed to be uploaded (>100 MB).
+You must compile and run with the "Required Libraries" in order for everything to be successful. The main static method is found in the class called "Runner."
 
 ### What does it look like?
 
