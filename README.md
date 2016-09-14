@@ -16,7 +16,7 @@ You must compile and run with the "Required Libraries" in order for everything t
 
 This application wasn't anything special. It was simply an exercise to learn how to use OpenGL in Java. Below is a screenshot and an animated gif to demonstrate what it can do.
 
-![alt tag](/Read-Me-Images/Static_Window_Image.png)
+<img src="/Read-Me-Images/Static_Window_Image.png" alt="Class Diagram" width="762" height="712">
 
 
 ![alt tag](https://raw.githubusercontent.com/dhoynoski/Java-OpenGL-Geometry-Drawer/Read-Me-Images/3_triangle_setup.gif)
