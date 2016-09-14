@@ -8,7 +8,7 @@ Definitely looking back I should have begun straight in C++ as that is where nat
 
 ### How to run?
 
-![alt tag](/Read-Me-Images/Class_Diagram.png =580x369)
+<img src="/Read-Me-Images/Class_Diagram.png" alt="Class Diagram" width="580" height="369">
 
 You must compile and run with the "Required Libraries" in order for everything to be successful.
 
