@@ -14,6 +14,7 @@ You must compile and run with the "Required Libraries" in order for everything t
 
 ### What does it look like?
 
-This application wasn't anything special. It was simply an exercise to learn how to use OpenGL in Java. Below is a screenshot and an animated gif to demonstrate what it can do.
+This application wasn't anything special. It was simply an exercise to learn how to use OpenGL in Java. Below is a screenshot of what it looks like. I tried creating animated gifs to show the rotation animation the elements are doing on-screen, but the animated gifs came out choppy so if you'd like to run it then run the provided jar file :)
 
 <img src="/Read-Me-Images/Static_Window_Image.png" alt="Class Diagram" width="762" height="712">
+
